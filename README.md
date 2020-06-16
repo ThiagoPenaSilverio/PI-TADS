@@ -17,6 +17,6 @@ Gráficos e áudio: Usando o estilo 8 bits, presentes em videogames clássicos, 
 
 
 Feito por:
-Thiago Pena Silverio
-Guilherme Rodrigues Faria de Andrade
-Victor Aparecido Silva
+Thiago Pena Silverio,
+Guilherme Rodrigues Faria de Andrade,
+Victor Aparecido Silva.
